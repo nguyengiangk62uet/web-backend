@@ -12,4 +12,6 @@ public class Bikini {
     public void wear() {
         logger.info("Wearing Bikini!");
     }
+
+
 }
